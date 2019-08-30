@@ -1,0 +1,8 @@
+# Site settings
+title: Explorations Into Faith
+description: A ground up initiative to build meaningful interfaith awareness, understanding and friendships through dialogue.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
